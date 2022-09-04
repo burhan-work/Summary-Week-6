@@ -120,14 +120,3 @@ Kalau di React JS untuk styling bisa menggunakan 3 cara, yaitu:
 Selain 3 cara di atas, agar lebih mudah kita bisa menggunakan bootstrap. Jika kita ingin menginstall bootstrap pada project react, ketikkan perintah berikut pada CMD
 
     npm i bootstrap@5.2.0
-
-### Lifecycle Method
-Lifecycle dari component React ada 3 fase yaitu:
-- Component DidMount : proses ketika page pertama kali dibuka
-- Component DidUpdate : ketika update data
-- Component WillUnmount
-
-#### Struktur data
-1. Constructor : inisialisasi struktur data pada suatu komponen
-2. Function : fungsi yang dibutuhkan dalam komponen
-3. Render : proses untuk menampilkan pada browser
