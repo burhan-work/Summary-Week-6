@@ -14,3 +14,9 @@ Bberapa keunggulan dari React JS adalah sebagai berikut:
 
 https://nodejs.org
 
+#### Gunakan Library `create-react-app`
+![](assets/b.PNG)
+
+https://create-react-app.dev
+
+
