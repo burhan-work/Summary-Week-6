@@ -12,5 +12,5 @@ Bberapa keunggulan dari React JS adalah sebagai berikut:
 #### Install Node JS
 ![](assets/a.PNG)
 
-[](https://nodejs.org)
+https://nodejs.org
 
